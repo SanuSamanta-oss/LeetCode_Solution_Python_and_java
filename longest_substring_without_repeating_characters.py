@@ -19,3 +19,6 @@ str = input("Enter a string (with or without duplicagte characters): ")
 
 obj = Solution()
 print("Longest Substring length : ", obj.lengthLongestofSubstring(str))
+
+# Time Complexity = O(n)
+# Space Complexity: O(n)

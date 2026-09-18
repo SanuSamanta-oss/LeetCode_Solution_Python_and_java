@@ -25,3 +25,6 @@ class Solution {
         return answer;
     }
 }
+
+// Time Complexity = O(log x)
+// Space Complexity = O(1)

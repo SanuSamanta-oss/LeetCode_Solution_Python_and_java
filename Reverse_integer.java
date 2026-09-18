@@ -14,3 +14,6 @@ class Solution {
         return reverse_1;
     }
 }
+
+// Time Complexity = O(log |x|)
+// Space Complexity = O(1)

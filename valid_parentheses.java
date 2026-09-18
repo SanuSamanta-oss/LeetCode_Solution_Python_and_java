@@ -28,3 +28,5 @@ class Solution {
         return stack.isEmpty();
     }
 }
+// Time Complexity = O(n)
+// Space Complexity: O(n)

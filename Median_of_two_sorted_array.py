@@ -21,3 +21,6 @@ nums2 = list(map(int , input("Enter the elements of number two array: ").split()
 obj = Solution()
 answer = obj.findMedianSortedArray(nums1, nums2)
 print("Median of two sorted array: ",answer)
+
+# Time Complexity: O((m + n) log(m + n))
+# Space Complexity: O(m + n)

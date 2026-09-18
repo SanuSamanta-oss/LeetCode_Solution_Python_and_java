@@ -27,3 +27,5 @@ class Solution(object):
             current.next = ListNode(carry)
 
         return dummy.next
+# Time Complexity: O(max(m, n))
+# Space Complexity: O(max(m, n))

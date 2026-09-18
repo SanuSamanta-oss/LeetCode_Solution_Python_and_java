@@ -22,3 +22,5 @@ class Solution{
         return maxwater;
     }
 }
+// Time Complexity = O(n)
+// Space Complexity = O(1)
